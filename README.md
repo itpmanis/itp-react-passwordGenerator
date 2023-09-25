@@ -38,3 +38,5 @@ The UI of the application is designed to be intuitive and user-friendly, providi
 
 
 ## Screenshot
+
+![screencapture-itp-react-passwordgenerator-netlify-app-2023-09-26-00_50_14](https://github.com/itpmanis/itp-react-passwordGenerator/assets/95114404/0e94502e-e6ad-40c3-8b96-6fafb8abf312)
